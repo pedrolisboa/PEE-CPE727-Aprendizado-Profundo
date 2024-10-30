@@ -1,8 +1,6 @@
-Here’s an improved version of the README with clearer structure and added details:
+# Seminar on Regularization for Deep Neural Networks
 
----
-
-# CPE72: Deep Learning - Regularization
+The seminar is based on Chapter 7 of [The Deep Learning book](https://www.deeplearningbook.org/)
 
 This repository provides a Docker-based setup with a PyTorch environment, equipped for remote development with both Jupyter Lab and code-server (VS Code in the browser).
 
